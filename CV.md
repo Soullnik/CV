@@ -3,6 +3,6 @@
 ## 3. For more than ten years, he led a group of more than 25 people. Now I started to study Git. I want to master Javasckript within a year and join the team. Very quickly I comprehend everything new and develop.
 ## 4. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
+## 6. From 2012 to 2016 he took part in the development and implementation of software for heat treatment. Gave advice and made changes (unfortunately I didn't write the code).
 ## 7. Technical scientific degree. Master of Engineering and Technology. English courses 2English, grade B1.
 ## 8. Confident English at B1 level. And I continue to raise my level.
